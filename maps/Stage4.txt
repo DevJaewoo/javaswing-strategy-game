@@ -1,0 +1,17 @@
+8 8
+GGGGGGGG
+WBWBWBWG
+GGGGGGGG
+GWBWBWBW
+GGGGGGGG
+GBGBGBWG
+GWGWGWGG
+GGGGGGGG
+P      K
+        
+K       
+        
+       K
+        
+K K K K 
+ B B B B
